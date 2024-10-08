@@ -1,0 +1,6 @@
+- [  ] add linting (eslint and prettier)
+- [  ] add linting ot commit hooks
+- [  ] add unit test
+- [  ] add unit tests to commit hook
+- [  ] add end to end testing
+- [  ] add end to end test to commit hook
